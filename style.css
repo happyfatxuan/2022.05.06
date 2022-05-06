@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(250, 217, 125);
+}
+h1{
+    color: rgb(39, 63, 128);
+    text-align: center;
+}
+h2{
+    color: rgb(206, 17, 64);
+}
+h3{
+    color:aliceblue(255, 255, 255);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  p {
+      background-color: rgb(255, 239, 194);
+      border: 2px solid rgb(255, 237, 197);
+      padding: 3px;
+      margin:4.5px;
+      border-radius: 5.5px;
+  }
